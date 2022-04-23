@@ -1,0 +1,1 @@
+export const url = "https://json-mascotas.herokuapp.com/dog/";
